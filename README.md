@@ -1,0 +1,2 @@
+# Multiple Local-Global Correlation-based Deep Neural Network with Selective Kernel Attention for Bearing Fault Diagnosis
+Official code implementation for Multiple Local-Global Correlation-based Deep Neural Nerwork (MLGCN).
